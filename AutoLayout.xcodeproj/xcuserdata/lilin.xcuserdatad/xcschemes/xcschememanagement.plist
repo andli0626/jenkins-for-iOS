@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>jenkins test for iOS.xcscheme</key>
+		<key>AutoLayout.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F22F7C431D1ADE0A0047C3E2</key>
+		<key>F2ECE3751CFBDBF0002B67AC</key>
 		<dict>
 			<key>primary</key>
 			<true/>

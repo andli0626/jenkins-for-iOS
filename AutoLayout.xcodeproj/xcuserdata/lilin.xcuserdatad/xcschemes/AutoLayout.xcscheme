@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F22F7C431D1ADE0A0047C3E2"
-               BuildableName = "jenkins test for iOS.app"
-               BlueprintName = "jenkins test for iOS"
-               ReferencedContainer = "container:jenkins test for iOS.xcodeproj">
+               BlueprintIdentifier = "F2ECE3751CFBDBF0002B67AC"
+               BuildableName = "AutoLayout.app"
+               BlueprintName = "AutoLayout"
+               ReferencedContainer = "container:AutoLayout.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F22F7C431D1ADE0A0047C3E2"
-            BuildableName = "jenkins test for iOS.app"
-            BlueprintName = "jenkins test for iOS"
-            ReferencedContainer = "container:jenkins test for iOS.xcodeproj">
+            BlueprintIdentifier = "F2ECE3751CFBDBF0002B67AC"
+            BuildableName = "AutoLayout.app"
+            BlueprintName = "AutoLayout"
+            ReferencedContainer = "container:AutoLayout.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F22F7C431D1ADE0A0047C3E2"
-            BuildableName = "jenkins test for iOS.app"
-            BlueprintName = "jenkins test for iOS"
-            ReferencedContainer = "container:jenkins test for iOS.xcodeproj">
+            BlueprintIdentifier = "F2ECE3751CFBDBF0002B67AC"
+            BuildableName = "AutoLayout.app"
+            BlueprintName = "AutoLayout"
+            ReferencedContainer = "container:AutoLayout.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F22F7C431D1ADE0A0047C3E2"
-            BuildableName = "jenkins test for iOS.app"
-            BlueprintName = "jenkins test for iOS"
-            ReferencedContainer = "container:jenkins test for iOS.xcodeproj">
+            BlueprintIdentifier = "F2ECE3751CFBDBF0002B67AC"
+            BuildableName = "AutoLayout.app"
+            BlueprintName = "AutoLayout"
+            ReferencedContainer = "container:AutoLayout.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
